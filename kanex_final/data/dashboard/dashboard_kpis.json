@@ -1,0 +1,10 @@
+{
+  "student_count": 80001,
+  "subject_count": 0,
+  "avg_cgpa": 7.1252,
+  "avg_sgpa": 0.0,
+  "avg_academic_score": 57.5885,
+  "avg_technical_score": 8.997,
+  "avg_stress_risk": 3.0028,
+  "last_pipeline_stage": "dashboard"
+}

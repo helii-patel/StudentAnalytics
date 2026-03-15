@@ -1,0 +1,155 @@
+{
+  "target_definition": "backlog_risk = 1 if noofbacklog > 0 else 0",
+  "feature_columns": [
+    "cgpa",
+    "gpa_1",
+    "gpa_2",
+    "gpa_3",
+    "gpa_4",
+    "gpa_5",
+    "gpa_6",
+    "marks_12th",
+    "thispresent",
+    "prispresent",
+    "daily_study_time",
+    "stress_level",
+    "social_media_time",
+    "travelling_time_",
+    "academic_score",
+    "attendance_score",
+    "stress_risk",
+    "productivity_score",
+    "avg_gpa",
+    "gpa_variance",
+    "gpa_trend",
+    "academic_momentum",
+    "credit_efficiency",
+    "subject_load",
+    "wellbeing_balance",
+    "employability_signal"
+  ],
+  "split_rows": {
+    "train": 15306,
+    "validation": 5102,
+    "test": 5102
+  },
+  "class_distribution": {
+    "no_risk": 21283,
+    "high_risk": 4227
+  },
+  "best_model": "random_forest",
+  "best_threshold": 0.58,
+  "validation_metrics": {
+    "logistic_regression": {
+      "threshold": 0.58,
+      "f1": 0.5746268656716418,
+      "precision": 0.47421093148575827,
+      "recall": 0.7289940828402367,
+      "roc_auc": 0.8727809260904072
+    },
+    "random_forest": {
+      "threshold": 0.58,
+      "f1": 0.6476399560922064,
+      "precision": 0.6038894575230297,
+      "recall": 0.6982248520710059,
+      "roc_auc": 0.903447576077272
+    }
+  },
+  "test_metrics": {
+    "logistic_regression": {
+      "threshold": 0.58,
+      "accuracy": 0.8157585260682085,
+      "precision": 0.46297739672642246,
+      "recall": 0.7029585798816568,
+      "f1": 0.5582706766917294,
+      "roc_auc": 0.8737033191416019,
+      "confusion_matrix": [
+        [
+          3568,
+          689
+        ],
+        [
+          251,
+          594
+        ]
+      ],
+      "classification_report": {
+        "0": {
+          "precision": 0.9342759884786593,
+          "recall": 0.838148931172187,
+          "f1-score": 0.883605745418524,
+          "support": 4257.0
+        },
+        "1": {
+          "precision": 0.46297739672642246,
+          "recall": 0.7029585798816568,
+          "f1-score": 0.5582706766917294,
+          "support": 845.0
+        },
+        "accuracy": 0.8157585260682085,
+        "macro avg": {
+          "precision": 0.6986266926025408,
+          "recall": 0.770553755526922,
+          "f1-score": 0.7209382110551267,
+          "support": 5102.0
+        },
+        "weighted avg": {
+          "precision": 0.8562188912558761,
+          "recall": 0.8157585260682085,
+          "f1-score": 0.8297233202765911,
+          "support": 5102.0
+        }
+      }
+    },
+    "random_forest": {
+      "threshold": 0.58,
+      "accuracy": 0.8698549588396707,
+      "precision": 0.5949632738719832,
+      "recall": 0.6710059171597633,
+      "f1": 0.6307007786429366,
+      "roc_auc": 0.9062703545708912,
+      "confusion_matrix": [
+        [
+          3871,
+          386
+        ],
+        [
+          278,
+          567
+        ]
+      ],
+      "classification_report": {
+        "0": {
+          "precision": 0.932995902627139,
+          "recall": 0.9093258163025605,
+          "f1-score": 0.9210088032357839,
+          "support": 4257.0
+        },
+        "1": {
+          "precision": 0.5949632738719832,
+          "recall": 0.6710059171597633,
+          "f1-score": 0.6307007786429366,
+          "support": 845.0
+        },
+        "accuracy": 0.8698549588396707,
+        "macro avg": {
+          "precision": 0.7639795882495611,
+          "recall": 0.790165866731162,
+          "f1-score": 0.7758547909393603,
+          "support": 5102.0
+        },
+        "weighted avg": {
+          "precision": 0.8770104907694153,
+          "recall": 0.8698549588396707,
+          "f1-score": 0.8729276035531192,
+          "support": 5102.0
+        }
+      }
+    }
+  },
+  "prediction_outputs": {
+    "full": "C:\\Documents\\kanexai_hackathon\\kanex_final\\data\\predictions\\backlog_risk_predictions.csv",
+    "test": "C:\\Documents\\kanexai_hackathon\\kanex_final\\data\\predictions\\backlog_risk_test_predictions.csv",
+    "dashboard": "C:\\Documents\\kanexai_hackathon\\kanex_final\\data\\predictions\\backlog_risk_dashboard_output.csv"
+  }
+}

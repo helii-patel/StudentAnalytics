@@ -1,0 +1,236 @@
+certification_course,gender,department,heightcm,weightkg,10th_mark,12th_mark,college_mark,hobbies,daily_study_time,prefer_to_study_in,salary_expectation,like_degree,career_willingness,social_media_time,travelling_time_,stress_level,financial_status,parttime_job
+no,male,bca,125.0,58.0,79.0,64.0,80.0,video games,0-30_min,morning,40000.0,no,50,1-2_hour,30-60_min,bad,bad,no
+no,female,bca,125.0,40.0,70.0,80.0,70.0,cinema,30-60_min,morning,15000.0,yes,75,30-60_min,0-30_min,bad,bad,no
+yes,male,bca,159.0,78.0,71.0,61.0,55.0,cinema,1-2_hour,anytime,13000.0,yes,50,2+_hour,30-60_min,awful,bad,no
+yes,female,bca,147.0,20.0,70.0,59.0,58.0,reading books,1-2_hour,anytime,40000.0,no,50,1-2_hour,0-30_min,bad,good,no
+no,male,bca,170.0,54.0,40.0,65.0,30.0,video games,30-60_min,morning,40000.0,yes,25,1-2_hour,30-60_min,good,good,no
+yes,female,bca,139.0,33.0,90.0,75.0,70.0,cinema,30-60_min,night,20000.0,yes,50,30-60_min,0-30_min,bad,good,no
+yes,male,bca,165.0,50.0,70.0,63.0,30.0,reading books,1-2_hour,morning,15000.0,yes,75,30-60_min,30-60_min,good,good,no
+no,male,bca,152.0,43.0,61.6,61.67,75.0,sports,1-2_hour,morning,25000.0,yes,50,30-60_min,30-60_min,good,good,no
+no,male,bca,190.0,85.0,88.2,67.5,60.0,video games,0-30_min,morning,20000.0,yes,75,1-2_hour,30-60_min,bad,bad,no
+no,male,bca,150.0,84.0,60.0,65.0,70.0,video games,0-30_min,anytime,20000.0,yes,75,30-60_min,30-60_min,good,good,no
+no,male,bca,125.0,50.0,75.0,70.0,60.0,video games,1-2_hour,morning,18000.0,yes,75,30-60_min,0-30_min,good,bad,no
+no,female,bca,152.0,51.0,60.0,55.0,65.0,cinema,other,night,20000.0,yes,75,30-60_min,other,bad,bad,no
+yes,female,bca,158.0,64.0,59.0,54.0,80.0,reading books,30-60_min,morning,18000.0,yes,75,0-30_min,30-60_min,bad,good,no
+no,male,bca,160.0,52.0,50.0,55.0,50.0,cinema,0-30_min,anytime,17.0,yes,75,30-60_min,1-2_hour,good,awful,no
+yes,male,bca,160.0,83.0,89.5,69.7,70.0,cinema,30-60_min,anytime,40000.0,yes,75,0-30_min,30-60_min,good,good,no
+yes,male,bca,156.0,68.0,54.0,48.0,60.0,video games,30-60_min,anytime,18000.0,yes,75,30-60_min,other,good,bad,no
+yes,male,bca,153.0,52.0,83.0,76.0,75.0,sports,1-2_hour,anytime,15000.0,yes,75,1-2_hour,30-60_min,good,good,yes
+yes,male,bca,162.0,60.0,62.0,61.3,53.0,cinema,0-30_min,night,0.0,yes,100,30-60_min,30-60_min,bad,bad,no
+no,male,bca,150.0,60.0,60.0,65.0,60.0,cinema,0-30_min,anytime,30000.0,yes,100,0-30_min,30-60_min,bad,bad,no
+yes,female,bca,125.0,42.0,60.0,70.0,88.0,cinema,30-60_min,anytime,20000.0,yes,100,0-30_min,30-60_min,good,good,no
+yes,male,bca,160.0,50.0,65.0,65.0,50.0,sports,30-60_min,anytime,10000.0,yes,75,30-60_min,30-60_min,bad,bad,yes
+no,male,bca,154.0,51.0,65.0,70.0,50.0,cinema,1-2_hour,morning,20000.0,yes,50,0-30_min,30-60_min,good,bad,no
+no,female,bca,142.0,42.0,78.0,60.0,60.0,cinema,1-2_hour,anytime,25000.0,yes,75,30-60_min,30-60_min,bad,good,no
+no,male,bca,180.0,90.0,75.0,73.8,65.0,video games,1-2_hour,morning,18000.0,yes,50,30-60_min,30-60_min,good,good,no
+no,male,bca,167.0,85.0,75.0,60.0,80.0,cinema,0-30_min,anytime,20000.0,yes,50,1-2_hour,other,awful,good,no
+no,male,bca,125.0,89.0,60.0,50.0,50.0,sports,30-60_min,morning,18000.0,yes,75,30-60_min,30-60_min,bad,good,yes
+yes,male,bca,175.0,73.0,90.0,90.0,80.0,cinema,1-2_hour,anytime,30000.0,yes,50,other,30-60_min,good,bad,no
+no,male,bca,151.0,69.0,73.0,85.0,55.0,sports,0-30_min,morning,15000.0,yes,100,30-60_min,30-60_min,good,good,no
+no,female,bca,145.0,39.0,89.0,77.0,65.0,sports,30-60_min,night,20000.0,yes,100,other,30-60_min,awful,bad,yes
+no,female,bca,125.0,40.0,94.0,94.0,80.0,reading books,30-60_min,night,15000.0,yes,75,30-60_min,30-60_min,good,bad,no
+no,male,bca,151.0,52.0,60.0,65.0,65.0,sports,0-30_min,morning,30000.0,yes,75,30-60_min,1-2_hour,good,good,no
+no,male,bca,158.0,63.0,78.0,60.0,75.0,sports,30-60_min,anytime,30000.0,yes,100,30-60_min,other,good,bad,no
+yes,male,bca,160.0,60.0,69.0,60.0,50.0,sports,0-30_min,anytime,20000.0,yes,75,0-30_min,1-2_hour,good,awful,no
+no,male,bca,163.0,55.0,85.6,70.0,65.0,cinema,1-2_hour,anytime,15000.0,yes,75,30-60_min,0-30_min,awful,bad,no
+yes,male,bca,160.0,70.0,65.0,60.0,65.0,video games,30-60_min,anytime,17000.0,yes,75,30-60_min,30-60_min,bad,good,no
+no,male,bca,144.0,50.0,70.0,60.0,60.0,sports,0-30_min,morning,15000.0,yes,50,30-60_min,1-2_hour,bad,bad,no
+no,female,bca,155.0,48.0,85.0,80.0,80.0,sports,other,anytime,15000.0,yes,100,30-60_min,30-60_min,good,good,no
+no,female,bca,150.0,45.0,90.0,90.0,90.0,cinema,0-30_min,night,25000.0,yes,100,30-60_min,0-30_min,awful,good,no
+yes,male,bca,185.0,72.0,79.0,65.0,75.0,video games,30-60_min,morning,40000.0,yes,75,2+_hour,30-60_min,good,bad,no
+no,male,bca,165.0,50.0,77.0,87.0,60.0,video games,30-60_min,anytime,10000.0,no,25,30-60_min,30-60_min,bad,bad,no
+no,female,bca,175.0,43.0,54.0,51.0,66.0,sports,30-60_min,morning,40000.0,yes,50,0-30_min,30-60_min,bad,good,no
+no,female,bca,125.0,35.0,70.0,55.0,70.0,reading books,1-2_hour,night,20000.0,yes,75,1-2_hour,30-60_min,good,good,no
+no,female,commerce,159.0,95.0,72.0,80.0,79.0,cinema,0-30_min,anytime,10000.0,yes,50,2+_hour,0-30_min,good,good,no
+no,male,commerce,160.0,70.0,70.0,70.0,70.0,cinema,other,anytime,20000.0,yes,100,0-30_min,0-30_min,good,good,yes
+yes,male,commerce,160.0,65.0,70.0,75.0,70.0,sports,0-30_min,anytime,20000.0,yes,75,30-60_min,30-60_min,good,good,yes
+yes,female,b.com accounting and finance,154.0,45.0,64.0,88.0,70.0,sports,1-2_hour,morning,10000.0,yes,25,30-60_min,0-30_min,bad,good,no
+no,male,b.com accounting and finance,160.0,80.0,75.0,75.0,75.0,sports,30-60_min,anytime,30000.0,yes,75,2+_hour,1-2_hour,good,good,no
+no,male,b.com accounting and finance,125.0,83.0,60.0,82.0,65.0,video games,0-30_min,anytime,40000.0,yes,75,30-60_min,1-2_hour,awful,good,no
+yes,male,b.com accounting and finance,156.0,70.0,66.0,65.0,60.0,reading books,1-2_hour,morning,20000.0,yes,50,30-60_min,30-60_min,fabulous,good,no
+no,male,b.com accounting and finance,155.0,55.0,73.0,72.0,30.0,reading books,1-2_hour,night,15000.0,yes,75,0-30_min,30-60_min,good,good,no
+yes,male,b.com accounting and finance,153.0,56.0,62.0,53.0,80.0,sports,1-2_hour,morning,40000.0,yes,75,30-60_min,other,awful,awful,yes
+yes,female,b.com accounting and finance,157.0,53.0,85.0,88.0,89.0,sports,1-2_hour,anytime,8000.0,yes,100,other,30-60_min,bad,bad,no
+no,male,b.com accounting and finance,170.0,65.0,70.0,80.0,75.0,reading books,other,anytime,15000.0,yes,100,1-2_hour,30-60_min,bad,good,no
+yes,female,commerce,159.0,67.0,98.0,80.0,85.0,reading books,1-2_hour,anytime,15000.0,yes,100,1-2_hour,other,good,bad,no
+yes,female,commerce,180.0,43.0,86.0,78.0,85.0,reading books,1-2_hour,anytime,10000.0,yes,75,1-2_hour,30-60_min,bad,good,no
+no,male,commerce,125.0,47.0,87.0,84.0,92.0,sports,30-60_min,morning,20000.0,yes,75,30-60_min,30-60_min,fabulous,bad,no
+yes,female,commerce,156.0,52.0,82.0,70.0,80.0,reading books,other,morning,15000.0,yes,100,0-30_min,0-30_min,fabulous,bad,yes
+yes,female,commerce,167.0,62.0,80.0,60.0,60.0,sports,1-2_hour,morning,18000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,female,commerce,152.0,60.0,93.6,85.0,93.0,sports,1-2_hour,anytime,20000.0,yes,100,0-30_min,0-30_min,good,good,no
+yes,male,b.com accounting and finance,152.0,50.0,90.0,80.0,95.0,sports,other,anytime,40000.0,yes,75,30-60_min,30-60_min,bad,bad,yes
+yes,female,commerce,146.0,61.0,88.0,81.0,80.0,cinema,30-60_min,morning,15000.0,yes,75,0-30_min,30-60_min,good,good,no
+yes,female,commerce,156.0,42.0,87.0,78.0,84.0,cinema,30-60_min,morning,15000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,male,commerce,190.0,90.0,70.0,70.0,90.0,cinema,other,anytime,15000.0,yes,100,2+_hour,30-60_min,awful,bad,yes
+yes,male,bca,155.0,89.0,89.0,69.0,80.0,sports,30-60_min,anytime,20000.0,no,25,2+_hour,30-60_min,bad,awful,yes
+yes,male,bca,160.0,55.0,70.0,60.0,70.0,video games,0-30_min,anytime,20000.0,yes,50,2+_hour,30-60_min,bad,good,no
+yes,male,bca,153.0,75.0,95.0,90.0,90.0,cinema,1-2_hour,morning,25000.0,yes,75,2+_hour,1-2_hour,good,good,yes
+yes,female,bca,160.0,42.0,80.0,75.0,75.0,reading books,other,morning,20000.0,yes,75,0-30_min,30-60_min,good,good,no
+yes,male,bca,125.0,93.0,90.0,62.0,79.0,reading books,30-60_min,night,18000.0,yes,75,30-60_min,30-60_min,bad,bad,no
+yes,male,bca,157.0,58.0,84.0,65.0,85.0,cinema,1-2_hour,night,40000.0,yes,75,30-60_min,other,good,good,no
+yes,male,bca,162.0,73.0,50.0,50.0,60.0,reading books,30-60_min,night,10000.0,yes,75,0-30_min,30-60_min,bad,good,no
+yes,male,bca,125.0,78.0,91.0,60.0,60.0,sports,30-60_min,anytime,15000.0,yes,25,1-2_hour,0-30_min,bad,bad,yes
+no,female,bca,162.0,60.0,84.0,64.0,75.0,sports,other,anytime,20000.0,yes,50,30-60_min,30-60_min,bad,good,no
+no,female,bca,160.0,35.0,87.0,75.0,89.0,cinema,0-30_min,anytime,10000.0,no,25,0-30_min,30-60_min,good,bad,no
+yes,male,bca,190.0,70.0,89.8,63.3,73.3,sports,0-30_min,anytime,40000.0,yes,50,30-60_min,30-60_min,bad,good,no
+yes,male,bca,160.0,60.0,89.0,69.0,80.0,video games,other,morning,20000.0,yes,75,30-60_min,other,good,good,yes
+yes,male,bca,150.0,74.0,75.0,55.0,60.0,sports,30-60_min,morning,20000.0,yes,75,30-60_min,0-30_min,good,good,no
+yes,female,bca,175.0,65.0,93.0,66.0,85.0,reading books,1-2_hour,anytime,20000.0,yes,100,0-30_min,30-60_min,good,good,no
+yes,male,bca,172.0,91.0,92.0,69.0,85.0,cinema,1-2_hour,night,15000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,male,bca,157.0,76.0,88.0,58.0,50.0,sports,30-60_min,night,20000.0,yes,75,30-60_min,other,bad,fabulous,no
+yes,male,bca,125.0,60.0,88.0,70.0,70.0,reading books,30-60_min,anytime,18000.0,no,50,30-60_min,other,awful,awful,no
+no,female,bca,155.0,52.0,7.4,79.0,75.0,sports,1-2_hour,night,12000.0,yes,75,1-2_hour,30-60_min,good,bad,no
+yes,female,bca,156.0,58.0,75.0,70.0,70.0,cinema,other,anytime,10000.0,yes,75,2+_hour,30-60_min,good,good,no
+yes,male,bca,125.0,64.0,80.0,70.0,75.0,sports,0-30_min,morning,25000.0,yes,75,30-60_min,0-30_min,awful,bad,no
+yes,male,bca,170.0,67.0,81.4,69.0,75.0,cinema,30-60_min,anytime,25000.0,no,100,1-2_hour,0-30_min,good,awful,yes
+yes,male,bca,171.0,60.0,78.0,55.0,70.0,reading books,other,anytime,21.0,yes,100,30-60_min,30-60_min,awful,good,yes
+no,male,bca,177.0,75.0,60.0,60.0,50.0,cinema,30-60_min,morning,25000.0,yes,75,30-60_min,30-60_min,good,bad,no
+yes,female,bca,170.0,45.0,75.0,64.0,74.0,cinema,0-30_min,anytime,20000.0,no,25,2+_hour,0-30_min,good,good,no
+yes,female,bca,180.0,75.0,90.2,61.6,85.0,video games,1-2_hour,anytime,35000.0,yes,75,2+_hour,0-30_min,bad,good,no
+yes,male,bca,174.0,54.0,80.0,62.0,75.0,sports,30-60_min,night,20000.0,yes,75,30-60_min,other,fabulous,awful,no
+no,male,bca,172.0,56.0,86.5,65.3,79.5,sports,0-30_min,morning,15000.0,yes,75,2+_hour,30-60_min,good,good,no
+yes,female,bca,153.0,50.0,88.8,71.0,85.0,cinema,other,morning,18000.0,yes,100,30-60_min,30-60_min,good,good,no
+yes,male,bca,158.0,75.0,90.0,75.0,70.0,sports,other,night,20000.0,yes,50,1-2_hour,other,bad,good,no
+no,male,bca,177.0,70.0,85.0,61.0,75.0,reading books,other,anytime,30000.0,yes,50,30-60_min,30-60_min,good,good,no
+no,male,bca,175.0,65.0,76.0,70.0,30.0,sports,1-2_hour,morning,15000.0,no,50,30-60_min,30-60_min,good,good,no
+yes,male,bca,170.0,70.0,80.0,70.0,70.0,cinema,other,night,40000.0,no,100,2+_hour,other,bad,good,yes
+yes,male,bca,180.0,80.0,91.0,73.3,85.0,sports,30-60_min,morning,25000.0,yes,100,30-60_min,0-30_min,good,good,no
+yes,female,bca,125.0,42.0,85.0,90.0,85.0,cinema,30-60_min,anytime,20000.0,yes,100,30-60_min,30-60_min,good,awful,no
+yes,male,bca,170.0,70.0,80.0,60.0,80.0,sports,other,night,25000.0,yes,75,30-60_min,30-60_min,good,good,no
+no,male,bca,178.0,83.0,85.8,63.66,80.0,sports,0-30_min,anytime,20000.0,yes,75,1-2_hour,0-30_min,good,good,no
+no,male,bca,180.0,67.0,80.0,70.0,60.0,video games,0-30_min,anytime,10000.0,yes,25,0-30_min,0-30_min,good,good,no
+no,female,bca,150.0,48.0,75.0,50.0,78.0,sports,0-30_min,night,18000.0,yes,50,30-60_min,0-30_min,bad,bad,no
+yes,female,bca,170.0,50.0,95.0,75.0,85.0,reading books,other,anytime,25000.0,yes,50,30-60_min,1-2_hour,good,good,no
+yes,female,bca,162.0,65.0,95.0,85.0,86.0,reading books,1-2_hour,night,15000.0,yes,50,1-2_hour,30-60_min,good,good,no
+yes,male,bca,170.0,65.0,90.0,64.0,80.0,reading books,30-60_min,anytime,20000.0,yes,75,0-30_min,30-60_min,bad,bad,no
+yes,male,bca,153.0,63.0,79.4,61.33,80.87,sports,1-2_hour,anytime,25000.0,yes,75,1-2_hour,30-60_min,good,bad,no
+no,male,bca,165.0,84.0,90.0,74.0,74.0,cinema,30-60_min,anytime,30000.0,yes,75,30-60_min,0-30_min,bad,bad,no
+no,male,bca,163.0,60.0,77.0,70.0,60.0,video games,other,anytime,20000.0,yes,75,30-60_min,other,good,good,no
+yes,male,bca,183.0,80.0,80.0,60.0,70.0,video games,0-30_min,anytime,10000.0,yes,50,0-30_min,0-30_min,good,bad,no
+yes,male,bca,175.0,85.0,90.0,57.0,68.0,reading books,1-2_hour,anytime,30000.0,yes,100,other,30-60_min,good,bad,no
+yes,male,bca,156.0,53.0,84.0,63.0,70.0,sports,0-30_min,morning,20000.0,yes,50,2+_hour,other,good,bad,no
+yes,male,bca,154.0,50.0,86.0,68.0,70.0,sports,30-60_min,anytime,20000.0,yes,100,30-60_min,30-60_min,good,bad,yes
+yes,female,bca,172.0,49.0,94.0,69.0,85.0,cinema,30-60_min,anytime,12000.0,yes,50,30-60_min,other,bad,good,no
+yes,male,bca,155.0,52.0,69.0,54.0,50.0,cinema,30-60_min,anytime,16000.0,yes,50,30-60_min,30-60_min,bad,good,no
+yes,male,bca,172.0,72.0,85.0,64.0,80.0,cinema,0-30_min,morning,15000.0,no,75,0-30_min,30-60_min,bad,bad,no
+no,male,bca,181.0,60.0,88.0,88.0,80.0,reading books,1-2_hour,anytime,15000.0,no,50,30-60_min,1-2_hour,bad,awful,yes
+no,male,bca,150.0,65.0,85.0,50.0,70.0,video games,30-60_min,anytime,25000.0,yes,75,1-2_hour,0-30_min,bad,bad,no
+yes,male,bca,179.0,70.0,69.0,60.0,68.0,video games,0-30_min,night,20000.0,yes,100,30-60_min,30-60_min,good,good,no
+yes,male,bca,187.0,65.0,85.0,60.0,60.0,sports,30-60_min,anytime,17000.0,yes,75,30-60_min,other,bad,good,no
+yes,male,bca,167.0,80.0,85.0,72.0,70.0,sports,1-2_hour,anytime,18000.0,no,50,1-2_hour,30-60_min,good,bad,yes
+yes,male,bca,170.0,50.0,70.0,78.0,75.0,cinema,0-30_min,anytime,15000.0,yes,75,2+_hour,0-30_min,bad,good,no
+yes,female,b.com accounting and finance,132.0,57.0,72.0,75.0,80.0,reading books,other,night,20000.0,yes,75,30-60_min,0-30_min,good,good,yes
+yes,male,bca,169.0,85.0,80.0,60.0,68.0,video games,30-60_min,night,20000.0,yes,100,1-2_hour,30-60_min,bad,good,no
+yes,male,bca,150.0,60.0,60.0,68.1,70.0,sports,30-60_min,morning,15000.0,yes,75,30-60_min,30-60_min,good,bad,yes
+yes,male,bca,180.0,75.0,84.0,55.0,70.0,video games,30-60_min,anytime,20000.0,yes,75,30-60_min,30-60_min,bad,good,no
+yes,female,bca,154.0,45.0,72.6,62.6,85.0,cinema,0-30_min,night,17000.0,yes,100,30-60_min,30-60_min,good,good,no
+yes,female,bca,139.0,62.0,91.0,86.0,90.0,cinema,30-60_min,morning,20000.0,yes,75,30-60_min,0-30_min,good,good,no
+no,male,bca,175.0,60.0,90.0,65.0,65.0,sports,0-30_min,anytime,20000.0,yes,75,0-30_min,30-60_min,good,bad,no
+yes,male,bca,172.0,72.0,78.0,67.0,80.0,cinema,other,anytime,20000.0,yes,100,0-30_min,30-60_min,good,good,no
+yes,male,bca,170.0,55.0,91.0,81.0,75.0,reading books,30-60_min,anytime,20000.0,yes,75,30-60_min,1-2_hour,good,bad,no
+no,male,bca,170.0,65.0,82.0,55.0,75.0,cinema,30-60_min,anytime,25000.0,yes,50,30-60_min,30-60_min,good,bad,no
+no,male,bca,185.0,65.0,80.5,53.0,80.0,sports,other,morning,40000.0,yes,75,30-60_min,1-2_hour,good,awful,no
+yes,male,bca,177.0,57.0,75.0,57.0,55.0,sports,0-30_min,morning,18000.0,yes,50,1-2_hour,0-30_min,good,good,no
+no,male,bca,170.0,86.0,75.0,68.0,70.0,sports,0-30_min,anytime,20000.0,yes,75,30-60_min,0-30_min,good,good,no
+yes,male,b.com accounting and finance,174.0,65.0,90.0,85.0,82.0,cinema,1-2_hour,anytime,5000.0,yes,50,0-30_min,30-60_min,good,good,no
+yes,male,bca,167.0,72.0,85.0,60.0,60.0,video games,other,anytime,20000.0,yes,50,0-30_min,30-60_min,fabulous,good,no
+yes,female,bca,155.0,48.0,84.2,64.8,84.0,sports,30-60_min,anytime,20000.0,yes,75,0-30_min,1-2_hour,good,good,no
+yes,male,bca,134.0,40.0,91.4,65.5,82.96,cinema,0-30_min,morning,20000.0,yes,75,2+_hour,30-60_min,good,good,no
+no,male,bca,159.0,51.0,86.0,72.0,80.0,reading books,other,morning,12500.0,no,75,30-60_min,30-60_min,good,bad,no
+yes,female,bca,150.0,50.0,85.0,55.0,75.0,video games,other,anytime,20000.0,yes,75,30-60_min,30-60_min,good,good,yes
+yes,female,bca,150.0,40.0,80.0,60.0,60.0,sports,30-60_min,anytime,15000.0,yes,75,2+_hour,0-30_min,good,good,no
+yes,male,bca,180.0,85.0,78.0,58.0,69.0,sports,0-30_min,morning,12000.0,no,0,0-30_min,30-60_min,good,good,no
+yes,male,bca,125.0,55.0,75.0,65.0,65.0,sports,30-60_min,morning,20000.0,yes,50,30-60_min,0-30_min,good,good,no
+yes,male,bca,182.0,58.0,80.0,60.0,65.0,sports,1-2_hour,night,25000.0,yes,50,30-60_min,30-60_min,bad,good,no
+yes,male,bca,165.0,67.0,90.0,70.0,50.0,reading books,30-60_min,morning,15000.0,no,25,0-30_min,other,good,bad,yes
+yes,female,b.com accounting and finance,160.0,38.0,80.0,88.0,80.0,sports,other,anytime,10000.0,yes,100,30-60_min,other,good,good,no
+yes,male,b.com accounting and finance,170.0,80.0,75.0,90.0,85.0,sports,other,anytime,40000.0,yes,100,30-60_min,1-2_hour,fabulous,bad,no
+no,male,bca,165.0,45.0,50.0,50.0,65.0,cinema,0-30_min,night,15000.0,yes,25,0-30_min,0-30_min,fabulous,fabulous,yes
+yes,female,b.com accounting and finance,148.0,78.0,71.2,79.5,70.0,cinema,30-60_min,anytime,5000.0,yes,50,30-60_min,30-60_min,good,bad,no
+no,female,b.com accounting and finance,130.0,35.0,80.2,70.0,30.0,reading books,other,morning,30000.0,no,50,30-60_min,30-60_min,good,bad,no
+no,female,bca,140.0,45.0,85.0,63.0,74.0,sports,30-60_min,night,10000.0,yes,75,2+_hour,30-60_min,bad,bad,no
+yes,male,bca,175.0,70.0,90.2,72.8,85.0,video games,1-2_hour,morning,20000.0,yes,75,30-60_min,30-60_min,good,bad,no
+no,male,bca,175.0,76.0,61.8,68.3,66.3,sports,other,morning,30000.0,yes,50,30-60_min,1-2_hour,good,good,no
+no,male,bca,160.0,70.0,80.0,69.0,60.0,sports,30-60_min,morning,20000.0,yes,50,30-60_min,30-60_min,awful,good,no
+yes,female,bca,155.0,43.0,79.0,61.0,70.0,cinema,1-2_hour,night,13000.0,yes,50,1-2_hour,0-30_min,awful,awful,no
+yes,female,bca,156.0,50.0,64.0,49.5,85.0,reading books,other,night,40000.0,yes,75,30-60_min,30-60_min,bad,bad,no
+yes,female,bca,160.0,50.0,86.0,68.0,80.0,video games,other,anytime,25000.0,yes,75,30-60_min,0-30_min,good,bad,no
+yes,male,bca,175.0,68.9,71.0,66.0,80.0,video games,30-60_min,morning,15000.0,yes,75,30-60_min,other,good,good,no
+yes,female,bca,155.0,50.0,80.0,73.0,80.0,cinema,0-30_min,anytime,40000.0,yes,75,0-30_min,30-60_min,good,bad,yes
+no,male,commerce,150.0,55.0,50.0,50.0,35.0,sports,other,morning,15000.0,yes,75,2+_hour,30-60_min,good,bad,no
+yes,male,commerce,165.0,75.0,65.0,75.0,97.0,cinema,0-30_min,anytime,15000.0,yes,50,30-60_min,0-30_min,fabulous,good,yes
+no,male,commerce,156.0,50.0,90.0,80.0,80.0,sports,1-2_hour,morning,15000.0,no,25,30-60_min,30-60_min,awful,bad,no
+yes,male,commerce,167.0,53.0,85.0,91.0,88.0,video games,30-60_min,morning,40000.0,yes,25,30-60_min,other,bad,bad,no
+yes,male,commerce,165.0,64.0,75.0,70.0,70.0,video games,30-60_min,morning,15000.0,yes,75,30-60_min,other,good,good,yes
+yes,male,commerce,190.0,100.0,82.0,78.0,80.0,reading books,1-2_hour,anytime,25000.0,yes,100,0-30_min,1-2_hour,good,bad,yes
+no,male,commerce,192.0,85.0,84.0,85.0,80.0,cinema,30-60_min,anytime,25000.0,yes,100,30-60_min,other,good,bad,no
+yes,male,commerce,173.0,58.0,91.0,83.5,80.0,video games,1-2_hour,night,35000.0,yes,50,30-60_min,other,bad,good,no
+yes,female,commerce,145.0,60.0,92.0,75.0,90.0,cinema,other,anytime,18000.0,yes,100,2+_hour,0-30_min,bad,good,no
+yes,male,commerce,170.0,90.0,75.0,75.0,80.0,sports,30-60_min,anytime,40000.0,yes,75,30-60_min,1-2_hour,good,good,no
+yes,male,commerce,169.0,65.0,90.0,80.0,85.0,cinema,other,anytime,20000.0,yes,75,1-2_hour,other,good,good,no
+yes,male,commerce,175.0,59.0,81.0,64.0,85.0,sports,1-2_hour,anytime,15000.0,yes,50,1-2_hour,30-60_min,good,good,no
+yes,female,commerce,150.0,42.0,70.0,71.0,91.0,sports,1-2_hour,anytime,20000.0,yes,75,30-60_min,0-30_min,good,fabulous,no
+yes,male,commerce,178.0,60.0,70.0,60.0,60.0,sports,other,morning,25000.0,yes,50,0-30_min,30-60_min,good,bad,yes
+yes,female,commerce,157.0,40.0,93.0,86.0,85.0,cinema,30-60_min,morning,15000.0,yes,50,2+_hour,30-60_min,good,bad,no
+no,female,commerce,160.0,40.0,76.0,63.0,70.0,sports,30-60_min,night,15000.0,yes,75,30-60_min,30-60_min,good,good,yes
+yes,male,commerce,159.0,80.0,60.0,79.0,50.0,cinema,30-60_min,morning,25000.0,yes,0,2+_hour,1-2_hour,good,bad,no
+no,male,commerce,182.0,57.0,83.7,76.77,80.0,sports,30-60_min,night,11000.0,yes,75,30-60_min,30-60_min,good,bad,no
+no,female,commerce,150.0,54.0,76.0,76.0,92.8,sports,other,anytime,25000.0,yes,100,30-60_min,30-60_min,good,bad,no
+yes,female,commerce,154.0,62.0,70.0,50.0,60.0,cinema,1-2_hour,night,20000.0,yes,50,30-60_min,30-60_min,bad,bad,no
+yes,female,commerce,165.0,75.0,91.0,70.0,80.0,cinema,1-2_hour,anytime,10000.0,yes,50,30-60_min,30-60_min,bad,awful,no
+yes,female,commerce,150.0,40.0,80.0,75.0,70.0,cinema,1-2_hour,morning,40000.0,yes,50,30-60_min,0-30_min,good,bad,no
+yes,female,b.com ism,149.0,50.0,60.0,60.0,60.0,cinema,30-60_min,morning,15000.0,yes,75,0-30_min,30-60_min,bad,bad,no
+no,male,b.com ism,150.0,48.0,60.0,77.0,50.0,video games,30-60_min,night,40000.0,yes,50,30-60_min,30-60_min,bad,bad,yes
+no,female,b.com ism,160.0,50.0,60.0,70.0,65.0,sports,0-30_min,night,5000.0,yes,25,30-60_min,30-60_min,good,bad,no
+yes,male,b.com ism,173.0,92.0,54.0,65.0,30.0,cinema,0-30_min,anytime,23000.0,yes,100,2+_hour,30-60_min,good,good,no
+no,male,b.com ism,150.0,48.0,46.0,48.0,60.0,sports,1-2_hour,anytime,30000.0,yes,50,0-30_min,30-60_min,bad,bad,no
+yes,male,b.com ism,163.0,80.0,76.0,47.0,30.0,cinema,0-30_min,morning,40000.0,yes,50,0-30_min,0-30_min,awful,awful,no
+yes,male,b.com ism,168.0,48.0,70.0,60.0,50.0,sports,30-60_min,morning,40000.0,yes,75,0-30_min,other,bad,bad,no
+yes,male,b.com ism,162.0,85.0,56.0,57.0,67.0,sports,30-60_min,night,30000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,male,b.com ism,170.0,80.0,67.0,70.0,60.0,sports,other,anytime,40000.0,yes,100,0-30_min,0-30_min,good,good,no
+no,male,b.com ism,145.0,50.0,75.0,79.0,70.0,reading books,1-2_hour,morning,12000.0,yes,50,0-30_min,0-30_min,good,awful,no
+no,male,b.com ism,160.0,52.0,65.0,70.0,65.0,video games,30-60_min,night,20000.0,yes,75,30-60_min,30-60_min,good,good,no
+no,male,b.com ism,180.0,65.0,86.0,86.0,89.0,video games,30-60_min,anytime,20000.0,yes,50,30-60_min,30-60_min,good,good,no
+no,male,b.com ism,149.0,35.0,70.0,67.0,65.0,video games,1-2_hour,anytime,15000.0,yes,100,0-30_min,0-30_min,good,good,no
+no,male,b.com ism,173.0,60.0,60.0,52.0,60.0,video games,1-2_hour,night,20000.0,yes,50,30-60_min,30-60_min,bad,bad,no
+no,female,b.com ism,149.0,40.0,60.0,60.0,60.0,cinema,30-60_min,morning,15000.0,yes,75,0-30_min,30-60_min,bad,good,no
+yes,male,b.com ism,170.0,55.0,50.0,50.0,50.0,cinema,30-60_min,night,10000.0,yes,75,0-30_min,30-60_min,bad,good,yes
+no,female,b.com ism,155.0,39.0,45.0,45.0,50.0,sports,other,night,10.0,no,75,30-60_min,30-60_min,fabulous,good,no
+yes,male,b.com ism,153.0,45.0,67.0,54.0,86.0,cinema,30-60_min,morning,30000.0,yes,100,0-30_min,30-60_min,good,good,no
+yes,male,b.com ism,170.0,65.0,79.0,62.0,60.0,cinema,1-2_hour,morning,25000.0,yes,75,0-30_min,0-30_min,good,good,no
+no,male,b.com ism,173.0,75.0,60.0,50.0,55.0,sports,1-2_hour,anytime,20000.0,yes,75,0-30_min,1-2_hour,bad,bad,no
+yes,male,b.com ism,170.0,60.0,50.0,50.0,50.0,reading books,1-2_hour,anytime,40000.0,yes,75,2+_hour,30-60_min,bad,good,yes
+yes,male,b.com ism,125.0,74.0,80.0,70.0,70.0,cinema,1-2_hour,anytime,15000.0,yes,75,2+_hour,30-60_min,bad,bad,yes
+yes,female,commerce,160.0,68.0,96.0,92.0,80.0,cinema,other,morning,10000.0,yes,75,1-2_hour,0-30_min,good,good,no
+no,male,commerce,140.0,86.0,76.0,83.0,70.0,cinema,30-60_min,morning,15000.0,yes,50,2+_hour,30-60_min,good,bad,no
+yes,male,commerce,165.0,60.0,55.0,50.0,60.0,sports,0-30_min,morning,13000.0,yes,50,0-30_min,30-60_min,good,bad,no
+yes,male,commerce,161.0,55.0,89.0,79.0,70.0,sports,30-60_min,morning,10000.0,yes,75,30-60_min,30-60_min,bad,bad,no
+yes,female,commerce,146.0,39.0,95.6,86.0,85.0,cinema,1-2_hour,anytime,13000.0,yes,75,30-60_min,0-30_min,good,good,no
+yes,male,commerce,155.0,70.0,60.0,60.0,60.0,sports,other,night,15000.0,yes,50,2+_hour,30-60_min,good,good,yes
+no,male,commerce,125.0,80.0,81.0,80.0,70.0,cinema,30-60_min,night,20000.0,yes,50,2+_hour,0-30_min,good,fabulous,yes
+yes,male,commerce,160.0,70.0,84.0,76.0,70.0,video games,30-60_min,anytime,15000.0,yes,75,2+_hour,30-60_min,bad,bad,yes
+yes,female,commerce,152.0,32.0,80.0,60.0,70.0,sports,1-2_hour,night,15.0,yes,75,30-60_min,30-60_min,bad,good,no
+no,male,commerce,168.0,75.0,75.0,65.0,75.0,cinema,1-2_hour,morning,22.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,female,commerce,152.0,64.0,90.4,80.0,80.0,cinema,1-2_hour,anytime,15000.0,yes,75,30-60_min,30-60_min,good,good,no
+no,male,commerce,156.0,45.0,85.0,75.0,70.0,sports,other,anytime,12000.0,yes,75,30-60_min,other,good,bad,yes
+yes,female,commerce,151.0,55.0,93.8,83.5,100.0,reading books,1-2_hour,morning,15000.0,yes,75,30-60_min,30-60_min,good,good,yes
+no,female,commerce,165.0,62.0,78.0,75.0,90.0,sports,other,anytime,15000.0,yes,100,30-60_min,0-30_min,good,good,no
+yes,female,commerce,160.0,60.0,75.0,85.0,90.0,cinema,other,anytime,20000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,female,commerce,153.0,58.0,85.0,74.0,75.0,cinema,0-30_min,anytime,20000.0,yes,75,2+_hour,0-30_min,awful,good,no
+yes,male,commerce,175.0,75.0,88.0,85.0,90.0,sports,30-60_min,morning,20000.0,yes,75,0-30_min,30-60_min,good,good,no
+no,male,commerce,161.0,54.0,90.0,73.0,80.0,cinema,30-60_min,morning,20000.0,yes,100,30-60_min,other,bad,bad,no
+yes,male,commerce,160.0,60.0,85.0,80.0,80.0,cinema,30-60_min,anytime,20000.0,yes,100,0-30_min,30-60_min,awful,bad,no
+yes,female,commerce,153.0,45.0,83.0,73.0,75.0,cinema,0-30_min,morning,20000.0,yes,75,30-60_min,0-30_min,good,good,no
+yes,male,commerce,160.0,50.0,85.0,80.0,60.0,sports,30-60_min,night,100.0,yes,75,30-60_min,0-30_min,good,bad,no
+yes,male,commerce,170.0,65.0,82.0,73.0,80.0,cinema,0-30_min,anytime,16000.0,yes,50,1-2_hour,0-30_min,fabulous,bad,no
+yes,female,commerce,152.0,65.0,97.0,80.0,100.0,reading books,other,morning,15000.0,yes,100,30-60_min,0-30_min,good,good,yes
+yes,female,commerce,164.0,43.0,80.0,89.0,95.0,reading books,other,morning,15000.0,yes,100,0-30_min,0-30_min,good,good,no
+yes,female,commerce,167.0,65.0,93.0,85.0,90.0,reading books,1-2_hour,night,15000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,male,b.com ism,167.0,55.0,55.0,57.0,60.0,sports,30-60_min,anytime,17000.0,yes,25,other,0-30_min,awful,bad,no
+yes,male,b.com ism,155.0,68.0,75.0,75.0,65.0,sports,1-2_hour,anytime,500.0,yes,100,1-2_hour,30-60_min,good,good,no
+no,female,b.com ism,153.0,60.0,60.0,70.0,70.0,sports,1-2_hour,anytime,15000.0,yes,75,30-60_min,0-30_min,good,bad,no
+yes,male,b.com ism,170.0,76.0,72.0,67.0,65.0,video games,30-60_min,morning,7000.0,yes,50,2+_hour,30-60_min,bad,bad,no
+yes,male,b.com ism,172.0,52.0,72.0,70.0,76.0,cinema,other,anytime,25000.0,yes,75,30-60_min,30-60_min,good,good,no
+yes,female,bca,139.0,33.0,90.0,75.0,70.0,cinema,30-60_min,night,20000.0,yes,50,30-60_min,other,bad,good,no
+yes,female,commerce,153.0,58.0,85.0,74.0,75.0,cinema,0-30_min,anytime,20000.0,yes,75,2+_hour,other,awful,good,no
+no,female,b.com ism,155.0,39.0,45.0,45.0,50.0,sports,other,night,10.0,no,75,30-60_min,other,fabulous,good,no

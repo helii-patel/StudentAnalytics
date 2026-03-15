@@ -1,0 +1,79 @@
+{
+  "pipeline_status": "success",
+  "last_run_at": "2026-03-15T05:35:10.445932",
+  "raw_layer": {
+    "research_student__1_.xlsx": {
+      "rows": 223,
+      "modified_at": 1773499801.1341426
+    },
+    "Student_Attitude_and_Behavior.csv": {
+      "rows": 235,
+      "modified_at": 1773499801.1011477
+    },
+    "studentPerformance.csv": {
+      "rows": 80001,
+      "modified_at": 1773533057.655857
+    }
+  },
+  "bronze_layer": {
+    "clean_student_dataset1.csv": {
+      "rows": 222,
+      "modified_at": 1773533083.7470074
+    },
+    "clean_student_dataset2_final.csv": {
+      "rows": 235,
+      "modified_at": 1773533083.7599938
+    },
+    "clean_student_dataset3.csv": {
+      "rows": 80001,
+      "modified_at": 1773533085.6743875
+    }
+  },
+  "silver_layer": {
+    "merged_student_dataset.csv": {
+      "rows": 80001,
+      "columns": 71
+    }
+  },
+  "gold_layer": {
+    "final_dataset.csv": {
+      "rows": 80001,
+      "columns": 71
+    },
+    "ml_features_dataset.csv": {
+      "rows": 80001,
+      "columns": 84
+    }
+  },
+  "warehouse_layer": {
+    "dim_student": {
+      "rows": 80001,
+      "columns": 9
+    },
+    "dim_academic_history": {
+      "rows": 80001,
+      "columns": 14
+    },
+    "dim_student_activity": {
+      "rows": 80001,
+      "columns": 8
+    },
+    "dim_behavior": {
+      "rows": 80001,
+      "columns": 10
+    },
+    "dim_subject": {
+      "rows": 80001,
+      "columns": 0
+    },
+    "fact_student_academic": {
+      "rows": 80001,
+      "columns": 2
+    }
+  },
+  "source_coverage": {
+    "research_record_available": 0,
+    "attitude_record_available": 0,
+    "performance_record_available": 0
+  }
+}

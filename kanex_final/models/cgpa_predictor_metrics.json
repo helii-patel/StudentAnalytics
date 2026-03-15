@@ -1,0 +1,29 @@
+{
+  "model_type": "RandomForestRegressor",
+  "features": [
+    "marks_10th",
+    "marks_12th",
+    "current_back",
+    "ever_back",
+    "gender",
+    "branch",
+    "category",
+    "study_hours_per_day",
+    "attendance_percentage",
+    "sleep_hours",
+    "parental_support_level",
+    "motivation_level",
+    "exam_anxiety_score",
+    "mental_health_rating",
+    "social_media_hours",
+    "screen_time",
+    "exercise_frequency",
+    "diet_quality"
+  ],
+  "target": "cgpa",
+  "train_rows": 64000,
+  "test_rows": 16000,
+  "mae": 0.0006558773674242435,
+  "rmse": 0.019230985374311872,
+  "r2": 0.6536199325612906
+}
